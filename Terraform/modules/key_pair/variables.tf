@@ -1,0 +1,2 @@
+variable "keyPairName" {}
+variable "publicKeyPath" {}

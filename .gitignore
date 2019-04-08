@@ -1,0 +1,7 @@
+*gitao
+local-mode-cache/*
+nodes
+*.tfstate
+*.tfstate.*
+.terraform
+deploy.out
