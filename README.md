@@ -8,7 +8,7 @@ The objective of this repo is to deploy an Amazon AMI with OpenVPN installed. Th
 2-) Terraform - https://www.terraform.io
 3-) A AWS Access Keys and Secret Keys credentials (For this repo, you can use an IAM account with full admin access)
 
-###TO-DO
+###TO-DO###
 
 In the first moment, you have to configure your local machine to access a AWS account through the access keys/secret keys. You can input your keys in this command:
 
